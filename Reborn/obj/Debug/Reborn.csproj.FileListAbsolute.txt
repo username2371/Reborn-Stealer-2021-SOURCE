@@ -1,0 +1,36 @@
+C:\Users\admin\source\repos\Reborn\Reborn\bin\Debug\Reborn.exe
+C:\Users\admin\source\repos\Reborn\Reborn\bin\Debug\Reborn.pdb
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.Properties.Resources.resources
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.exe
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.pdb
+C:\Users\admin\source\repos\Reborn\Reborn\bin\Debug\DotNetZip.dll
+C:\Users\admin\source\repos\Reborn\Reborn\bin\Debug\DotNetZip.xml
+C:\Users\admin\source\repos\Reborn\Reborn\obj\Debug\Reborn.csproj.CopyComplete
+C:\Users\admin\Desktop\Reborn\Reborn\bin\Debug\Natasha.exe
+C:\Users\admin\Desktop\Reborn\Reborn\bin\Debug\Natasha.pdb
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Reborn.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Natasha.Properties.Resources.resources
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Reborn.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Reborn.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Natasha.exe
+C:\Users\admin\Desktop\Reborn\Reborn\obj\Debug\Natasha.pdb
+C:\Users\admin\Desktop\Stealer\Reborn\bin\Debug\Natasha.exe
+C:\Users\admin\Desktop\Stealer\Reborn\bin\Debug\Natasha.pdb
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Reborn.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Natasha.Properties.Resources.resources
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Reborn.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Reborn.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Natasha.exe
+C:\Users\admin\Desktop\Stealer\Reborn\obj\Debug\Natasha.pdb
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\bin\Debug\Natasha.exe.config
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\bin\Debug\Natasha.exe
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\bin\Debug\Natasha.pdb
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Natasha.Properties.Resources.resources
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Reborn.csproj.GenerateResource.cache
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Reborn.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Natasha.exe
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Natasha.pdb
+C:\Users\administrator\Desktop\Новая папка\Stealer\Reborn\obj\Debug\Reborn.csprojAssemblyReference.cache
